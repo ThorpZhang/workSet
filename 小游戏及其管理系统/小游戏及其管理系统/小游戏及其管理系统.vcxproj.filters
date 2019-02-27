@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="loginForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="typeDefinition.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="adplayerForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="childplayerForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Storage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="user.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="memberService.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="addchild.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="addadplayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="accmanager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="deleteplayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pushbox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="outputRandS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RandSUI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="level.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cube.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pushboxUI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cleanmines.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="2048_alg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G2048.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMRandSUI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="loginForm.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adplayerForm.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="childplayerForm.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addadplayer.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addchild.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accmanager.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteplayer.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandSUI.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMRandSUI.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cube.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="G2048.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pushboxUI.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="loginForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="adplayerForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="childplayerForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="addchild.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="addadplayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deleteplayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="accmanager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pushbox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="outputRandS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RandSUI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cube.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pushboxUI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cleanmines.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2048_alg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G2048.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMRandSUI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,189 @@
+﻿  adplayerForm.cpp
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(24): warning C4101: “loginInfo”: 未引用的局部变量
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(23): warning C4101: “buffer”: 未引用的局部变量
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(104): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(118): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(163): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(206): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(283): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(297): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(342): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(385): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(425): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(461): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(473): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(475): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\RandSUI.h(106): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\RandSUI.h(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\RandSUI.h(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\CMRandSUI.h(107): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\CMRandSUI.h(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\CMRandSUI.h(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\adplayerForm.h(58): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  childplayerForm.cpp
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(24): warning C4101: “loginInfo”: 未引用的局部变量
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(23): warning C4101: “buffer”: 未引用的局部变量
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(104): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(118): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(163): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(206): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(283): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(297): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(342): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(385): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(425): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(461): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(473): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(475): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\RandSUI.h(106): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\RandSUI.h(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\RandSUI.h(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\CMRandSUI.h(107): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\CMRandSUI.h(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\CMRandSUI.h(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\childplayerForm.h(60): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  loginForm.cpp
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\user.h(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(24): warning C4101: “loginInfo”: 未引用的局部变量
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(23): warning C4101: “buffer”: 未引用的局部变量
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(104): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(118): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(163): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(206): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(283): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(297): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(342): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(385): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(425): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(461): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(473): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\Storage.h(475): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\RandSUI.h(106): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\RandSUI.h(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\RandSUI.h(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\CMRandSUI.h(107): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\CMRandSUI.h(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\CMRandSUI.h(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\adplayerForm.h(58): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\childplayerForm.h(60): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\loginForm.h(229): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“System::String ^”
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\loginForm.h(229): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\loginForm.h(230): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“System::String ^”
+d:\a编程学习\visual studio\大一c++\c++大作业\小游戏及其管理系统\小游戏及其管理系统\loginForm.h(230): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  正在生成代码...
+  2048_alg.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  小游戏及其管理系统.vcxproj -> D:\A编程学习\Visual Studio\大一C++\C++大作业\小游戏及其管理系统\Debug\小游戏及其管理系统.exe
+  小游戏及其管理系统.vcxproj -> D:\A编程学习\Visual Studio\大一C++\C++大作业\小游戏及其管理系统\Debug\小游戏及其管理系统.pdb (Partial PDB)

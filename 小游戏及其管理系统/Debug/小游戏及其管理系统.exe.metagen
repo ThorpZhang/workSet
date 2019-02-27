@@ -1,0 +1,142 @@
+  小游戏及其管理系统.accmanager.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.addadplayer.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.addchild.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.adplayerForm.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.childplayerForm.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.CMRandSUI.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.cube.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.deleteplayer.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.G2048.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.loginForm.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.pushboxUI.resources - Embedded, ContainedInManifestFile, 
+  小游戏及其管理系统.RandSUI.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly 小游戏及其管理系统, Version=0.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ManagementSystemV5.matrix: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    Int32 order : Public
+    Int32** block : Public
+    Int32 sum : Public
+  Methods:
+    input(Int32): PrivateScope, Public, HideBySig
+    display(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    zero_num(): PrivateScope, Public, HideBySig
+    insert_num(): PrivateScope, Public, HideBySig
+    block_to_left(): PrivateScope, Public, HideBySig
+    block_to_right(): PrivateScope, Public, HideBySig
+    block_up(): PrivateScope, Public, HideBySig
+    block_down(): PrivateScope, Public, HideBySig
+    full(): PrivateScope, Public, HideBySig
+    calculate(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class ManagementSystemV5.game: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    ManagementSystemV5.matrix board IsByValue : Public, InitOnly
+    Boolean over : Public
+    Int32 score : Public
+  Methods:
+    input(Int32): PrivateScope, Public, HideBySig
+    start(): PrivateScope, Public, HideBySig
+    judge(): PrivateScope, Public, HideBySig
+    calculate(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Struct ManagementSystemV5.player: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct ManagementSystemV5.adplayer: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct ManagementSystemV5.childplayer: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class ManagementSystemV5.Storage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    login(SByte*, SByte*, loginUsertype): PrivateScope, Public, HideBySig
+    writeLoginInfo(player*): PrivateScope, Public, HideBySig
+    readLoginInfo(SByte*): PrivateScope, Public, HideBySig
+    updateInfo(Int32, SByte*, SByte*, SByte*): PrivateScope, Public, HideBySig
+    writechild(childplayer*): PrivateScope, Public, HideBySig
+    writeadult(adplayer*): PrivateScope, Public, HideBySig
+    testRandSforchild(): PrivateScope, Public, HideBySig
+    InitRandSforchild(childplayer*): PrivateScope, Public, HideBySig
+    InitRandSforadult(adplayer*): PrivateScope, Public, HideBySig
+    writeRandSforadult(adplayer*, Int32): PrivateScope, Public, HideBySig
+    writeRandSforchild(childplayer*, Int32): PrivateScope, Public, HideBySig
+    testCMRandSforchild(): PrivateScope, Public, HideBySig
+    InitCMRandSforchild(childplayer*): PrivateScope, Public, HideBySig
+    InitCMRandSforadult(adplayer*): PrivateScope, Public, HideBySig
+    writeCMRandSforadult(adplayer*, Int32): PrivateScope, Public, HideBySig
+    writeCMRandSforchild(childplayer*, Int32): PrivateScope, Public, HideBySig
+    deleteLoginInfo(SByte*): PrivateScope, Public, HideBySig
+    deleteUserdata(SByte*, Int32): PrivateScope, Public, HideBySig
+Struct ManagementSystemV5.User: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct ManagementSystemV5.Fchildplayer: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct ManagementSystemV5.Fadplayer: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class 小游戏及其管理系统.addadplayer: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.deleteplayer: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.accmanager: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.addchild: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.RandSUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.Config: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String[] level : Public, Static
+Class 小游戏及其管理系统.cube: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 OldValue 'get set' : 
+  Methods:
+    get_OldValue(): PrivateScope, Public, HideBySig, SpecialName
+    set_OldValue(Int32): PrivateScope, Public, HideBySig, SpecialName
+    RefImage(): PrivateScope, Public, HideBySig
+Class 小游戏及其管理系统.pushboxUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(ManagementSystemV5.childplayer*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.G2048: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.CMRandSUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.adplayerForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(ManagementSystemV5.player*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.childplayerForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(ManagementSystemV5.player*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.loginForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
