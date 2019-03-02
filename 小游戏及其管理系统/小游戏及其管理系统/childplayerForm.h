@@ -38,7 +38,7 @@ namespace 小游戏及其管理系统 {
 			play1(this->thechild);
 		}
 	};*/
-/*	public  ref class mythread
+	public  ref class mythread
 	{
 	public:
 		childplayer* thechild;
@@ -47,7 +47,7 @@ namespace 小游戏及其管理系统 {
 		{
 			child_play_cleanmines(this->thechild);
 		}
-	};  */
+	};
 	public ref class childplayerForm : public System::Windows::Forms::Form
 	{
 	public:
@@ -118,17 +118,17 @@ namespace 小游戏及其管理系统 {
 			// 
 			// game1
 			// 
-			this->game1->Location = System::Drawing::Point(33, 26);
+			this->game1->Location = System::Drawing::Point(33, 48);
 			this->game1->Name = L"game1";
 			this->game1->Size = System::Drawing::Size(175, 40);
 			this->game1->TabIndex = 0;
-			this->game1->Text = L"植物大战僵尸";
+			this->game1->Text = L"扫雷";
 			this->game1->UseVisualStyleBackColor = true;
 			this->game1->Click += gcnew System::EventHandler(this, &childplayerForm::game1_Click);
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(33, 72);
+			this->button2->Location = System::Drawing::Point(33, 115);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(175, 47);
 			this->button2->TabIndex = 1;
@@ -138,17 +138,17 @@ namespace 小游戏及其管理系统 {
 			// 
 			// button3
 			// 
-			this->button3->Location = System::Drawing::Point(33, 201);
+			this->button3->Location = System::Drawing::Point(335, 165);
 			this->button3->Name = L"button3";
-			this->button3->Size = System::Drawing::Size(175, 47);
+			this->button3->Size = System::Drawing::Size(161, 62);
 			this->button3->TabIndex = 2;
-			this->button3->Text = L"坦克大战";
+			this->button3->Text = L"查看扫雷排名";
 			this->button3->UseVisualStyleBackColor = true;
 			this->button3->Click += gcnew System::EventHandler(this, &childplayerForm::button3_Click);
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(33, 138);
+			this->button1->Location = System::Drawing::Point(33, 191);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(175, 47);
 			this->button1->TabIndex = 3;
@@ -158,7 +158,7 @@ namespace 小游戏及其管理系统 {
 			// 
 			// RandS
 			// 
-			this->RandS->Location = System::Drawing::Point(341, 107);
+			this->RandS->Location = System::Drawing::Point(335, 48);
 			this->RandS->Name = L"RandS";
 			this->RandS->Size = System::Drawing::Size(161, 68);
 			this->RandS->TabIndex = 4;
@@ -212,11 +212,11 @@ private: System::Void game1_Click(System::Object^  sender, System::EventArgs^  e
 	//Thread ^thread1 = gcnew Thread (gcnew ThreadStart());
 	Thread ^newthread = gcnew Thread(threadDelegate);
 	newthread->Start();*/
-	WinExec("./res_s/Debug/Plants vs Zombies.exe", SW_SHOW); //D:\A编程学习\Visual Studio\PVZ\Plants vs Zombies\Debug
-/*	mythread ^t = gcnew mythread((childplayer*)now);
+
+	mythread ^t = gcnew mythread((childplayer*)now);
 	ThreadStart ^ts = gcnew ThreadStart(t,&mythread::playgame);
 	Thread ^thread = gcnew Thread(ts);
-	thread->Start();*/
+	thread->Start();
 }
 private: System::Void button2_Click(System::Object^  sender, System::EventArgs^  e) {
 	if (Application::OpenForms["pushboxUI"] == nullptr) {
@@ -228,14 +228,13 @@ private: System::Void button2_Click(System::Object^  sender, System::EventArgs^ 
 	}
 }
 private: System::Void button3_Click(System::Object^  sender, System::EventArgs^  e) {
-	/*if (Application::OpenForms["CMRandSUI"] == nullptr) {
+	if (Application::OpenForms["CMRandSUI"] == nullptr) {
 		CMRandSUI^adone = gcnew CMRandSUI();
 		adone->Show();
 	}
 	else {
 		Application::OpenForms["CMRandSUI"]->Show();
-	}*/
-	WinExec("./res_s/MyTankWar/64.exe", SW_SHOW);
+	}
 }
 };
 }

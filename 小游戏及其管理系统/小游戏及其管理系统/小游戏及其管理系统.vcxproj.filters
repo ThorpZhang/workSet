@@ -104,18 +104,6 @@
     <EmbeddedResource Include="RandSUI.resx">
       <Filter>资源文件</Filter>
     </EmbeddedResource>
-    <EmbeddedResource Include="CMRandSUI.resx">
-      <Filter>资源文件</Filter>
-    </EmbeddedResource>
-    <EmbeddedResource Include="cube.resx">
-      <Filter>资源文件</Filter>
-    </EmbeddedResource>
-    <EmbeddedResource Include="G2048.resx">
-      <Filter>资源文件</Filter>
-    </EmbeddedResource>
-    <EmbeddedResource Include="pushboxUI.resx">
-      <Filter>资源文件</Filter>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="loginForm.cpp">

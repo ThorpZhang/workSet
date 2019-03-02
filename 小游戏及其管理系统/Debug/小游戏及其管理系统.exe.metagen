@@ -131,9 +131,21 @@ Class 小游戏及其管理系统.G2048: AutoLayout, AnsiClass, Class, Public, B
 Class 小游戏及其管理系统.CMRandSUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.mythread1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(ManagementSystemV5.adplayer*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    ManagementSystemV5.adplayer* theadult : Public
+  Methods:
+    playgame(): PrivateScope, Public, HideBySig
 Class 小游戏及其管理系统.adplayerForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(ManagementSystemV5.player*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 小游戏及其管理系统.mythread: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(ManagementSystemV5.childplayer*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    ManagementSystemV5.childplayer* thechild : Public
+  Methods:
+    playgame(): PrivateScope, Public, HideBySig
 Class 小游戏及其管理系统.childplayerForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(ManagementSystemV5.player*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
